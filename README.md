@@ -67,7 +67,7 @@ Simulation Tool: ModelSim and Quatrus prime
 
 Clone the repository:
 
-git clone https://github.com/
+git clone: https://github.com/roverpandey-stack/Risc-V_CPU.git
 
 
 Open the project in your HDL simulation tool.
@@ -79,8 +79,6 @@ Load a sample instruction memory file (instructions.mem) and observe CPU executi
 
 ## Block Diagram
 ![BLOCK DIAGRAM](images/block_diagram.png)
-
-
 
 ## Testing
 
