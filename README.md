@@ -67,7 +67,7 @@ Simulation Tool: ModelSim and Quatrus prime
 
 Clone the repository:
 
-git clone https://github.com/your-username/single-cycle-32bit-cpu.git
+git clone https://github.com/
 
 
 Open the project in your HDL simulation tool.
