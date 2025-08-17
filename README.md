@@ -78,6 +78,7 @@ Load a sample instruction memory file (instructions.mem) and observe CPU executi
 
 
 ## Block Diagram
+![BLOCK DIAGRAM](images/block_diagram.png)
 
 
 
