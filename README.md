@@ -76,17 +76,10 @@ Compile and run the design.
 
 Load a sample instruction memory file (instructions.mem) and observe CPU execution in the waveform/simulation.
 
-## Project Structure
-single-cycle-32bit-cpu/
-│── src/                # HDL source files (CPU modules)
-│── testbench/          # Testbench files
-│── docs/               # Documentation, block diagrams
-│── instructions/       # Sample instruction memory files
-│── README.md           # Project overview
 
 ## Block Diagram
 
-(Insert your CPU datapath diagram here for clarity)
+
 
 ## Testing
 
